@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptLib", "CryptLib.csproj", "{63F4D3B0-7807-4206-B49C-9E58A9A9FDC7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{63F4D3B0-7807-4206-B49C-9E58A9A9FDC7}.Debug.ActiveCfg = Debug|.NET
+		{63F4D3B0-7807-4206-B49C-9E58A9A9FDC7}.Debug.Build.0 = Debug|.NET
+		{63F4D3B0-7807-4206-B49C-9E58A9A9FDC7}.Release.ActiveCfg = Release|.NET
+		{63F4D3B0-7807-4206-B49C-9E58A9A9FDC7}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
